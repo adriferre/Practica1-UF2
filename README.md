@@ -1,1 +1,2 @@
-# Practica1-UF2
+# Calculadora
+Exercici per a la practica1 UF2
